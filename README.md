@@ -5,5 +5,4 @@
 Пеоддерживаеться валидация введенного массива.
 
 Загрузить скомпилированное приложение(MacOS):
-https://raw.githubusercontent.com/anotherstudent/Quick-Sort/master/Quick%20Sort.app
-
+https://github.com/AnotherStudent/Quick-Sort/archive/master.zip
