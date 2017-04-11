@@ -1,3 +1,5 @@
+![screenshot](screenshot.png)
+
 # Quick-Sort
 Пример Cocoa приложения.
 
